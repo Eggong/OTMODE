@@ -27,9 +27,13 @@ OTMODE: An Optimal Transport-Based Framework for Differential Feature Identifica
 
 ## 🧬 Overview
 
-**OTMODE** is a computational framework built on **Optimal Transport (OT)** theory for identifying **differential features** across conditions in **single-cell multi-omics** data.
+**OTMODE** is a computational framework built on **Optimal Transport (OT)** theory for improving cell-type annotation accuracy and for identifying **differential features** across conditions in **single-cell multi-omics** data.
 
-It provides interpretable metrics, including **OT Sinkhorn distances**, to compare cell types and clusters across predicted and true annotations.
+It provides interpretable metrics, including **Sinkhorn distances**, to compare cell types and clusters across predicted and true annotations. Please see our architecture of the OTMODE framework for more details!
+
+<p align="center">
+  <img src="[https://github.com/Eggong/OTMODE/blob/main/assets/otmode_architecture.png?raw=true](https://github.com/Eggong/OTMODE/blob/main/figure/Slide3.tiff)" alt="OTMODE Architecture" width="800"/>
+</p>
 
 📖 Read our paper (coming soon) | 🔬 Built with Python & scRNA-seq in mind
 
