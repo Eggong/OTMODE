@@ -1,6 +1,3 @@
-# OTMODE
-OTMODE: An Optimal Transport-Based Framework for Differential Feature Identification in Single-Cell Multi-Omics
-
 <p align="center">
   <img src="https://github.com/Eggong/OTMODE/blob/main/figure/logo.png" height="150">
 </p>
