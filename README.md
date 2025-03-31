@@ -2,9 +2,8 @@
   <img src="https://github.com/Eggong/OTMODE/blob/main/figure/logo.png" height="150">
 </p>
 
-<h1 align="center">OTMODE</h1>
 <p align="center">
-  <strong>Optimal Transport-Based Framework for Differential Feature Identification in Single-Cell Multi-Omics</strong>
+  <strong>OTMODE: Optimal Transport-Based Framework for Differential Feature Identification in Single-Cell Multi-Omics</strong>
 </p>
 
 <p align="center">
