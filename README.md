@@ -15,6 +15,8 @@
   </a>
   <a href="https://pypi.org/project/otmode/">
     <img src="https://img.shields.io/pypi/v/otmode?color=brightgreen&label=pypi" alt="PyPI version">
+  <a href="https://scverse.org/">
+    <img src="https://img.shields.io/badge/scverse-ecosystem-blue.svg?labelColor=yellow" alt="scverse">
   </a>
   <img src="https://img.shields.io/pypi/pyversions/otmode" alt="Python Versions">
 </p>
