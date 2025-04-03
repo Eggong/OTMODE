@@ -43,6 +43,15 @@ To optimize the performance of OTMODE in differential feature detection, we eval
 
 ---
 
+### 🛠️ Installation
+
+We provide a simple installation process to help users quickly set up and start using **OTMODE** for multi-omics single-cell data analysis.
+
+You can install OTMODE using `pip`:
+
+```bash
+pip install otmode
+
 ## 📘 Tutorials
 
 We provide interactive tutorials to help users get started with applying **OTMODE** to multi-omics single-cell data. These tutorials demonstrate real use cases such as cell type annotation and differential feature detection.
