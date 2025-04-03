@@ -37,6 +37,8 @@ To optimize the performance of OTMODE in differential feature detection, we eval
   <img src="https://github.com/Eggong/OTMODE/blob/main/figure/Parameter_Tuning_Benchmarking.png" alt="OTMODE Architecture" width="900"/>
 </p>
 
+🔬 Built with Python
+
 ---
 
 ## 📘 Tutorials
@@ -54,6 +56,27 @@ All tutorials are provided as Jupyter notebooks and are located in the [`tutoria
 
 ---
 
-📖 Read our paper (coming soon) | 🔬 Built with Python & scRNA-seq in mind
+### 📝 Notes for Users
+
+Each tutorial is **fully commented** and includes the following steps:
+
+- 📂 **Data Loading and Preparation**  
+  Load example or user-provided multi-omics data and prepare it for analysis.
+
+- ⚙️ **Application of the OTMODE Algorithm**  
+  Apply the OTMODE method to integrate modalities and infer latent representations.
+
+- 📊 **Visualization of Results**  
+  Generate plots such as **UMAP**, **heatmaps**, and **feature importance** to interpret results.
+
+- 🔍 **Interpretation of Outputs**  
+  Understand clustering, annotations, or differential features identified by OTMODE.
+
+---
+
+> ✅ **Recommended Environment**  
+> - Python **≥ 3.8**  
+> - Libraries: `scanpy`, `anndata`, `numpy`, `matplotlib`, `seaborn`, and others listed in `requirements.txt`
+
 
 ---
