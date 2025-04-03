@@ -48,15 +48,16 @@ To optimize the performance of OTMODE in differential feature detection, we eval
 We provide a simple installation process to help users quickly set up and start using **OTMODE** for multi-omics single-cell data analysis.
 
 You can install OTMODE using `pip`:
-
 ```bash
 pip install otmode
+```
 
 Alternatively, to install the latest development version from GitHub:
 ```bash
 git clone https://github.com/your-username/otmode.git
 cd otmode
 pip install -e .
+```
 
 Make sure you have Python 3.8+ and the required dependencies listed in requirements.txt.
 
