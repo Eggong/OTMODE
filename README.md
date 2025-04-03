@@ -38,12 +38,7 @@ To optimize the performance of OTMODE in differential feature detection, we eval
 </p>
 
 ---
-## 🚀 Installation
 
-```bash
-pip install git+https://github.com/Eggong/OTMODE.git
-
----
 ## 📘 Tutorials
 
 We provide interactive tutorials to help users get started with applying **OTMODE** to multi-omics single-cell data. These tutorials demonstrate real use cases such as cell type annotation and differential feature detection.
@@ -58,7 +53,6 @@ All tutorials are provided as Jupyter notebooks and are located in the [`tutoria
 | **Application 2: Differential Feature Detection** | Step-by-step guide to detect differentially expressed genes or features across cell groups. | [View Notebook ›](./tutorials/OTMODE_App2_Tutorial.ipynb) |
 
 ---
-
 
 📖 Read our paper (coming soon) | 🔬 Built with Python & scRNA-seq in mind
 
