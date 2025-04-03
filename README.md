@@ -28,8 +28,18 @@
 It provides interpretable metrics, including **Sinkhorn distances**, to compare cell types and clusters across predicted and true annotations. Please see our architecture of the OTMODE framework for more details!
 
 <p align="center">
-  <img src="https://github.com/Eggong/OTMODE/blob/main/figure/Slide3.tiff" alt="OTMODE Architecture" width="900"/>
+  <img src="https://github.com/Eggong/OTMODE/blob/main/figure/OTMODE_Schmatic.png" alt="OTMODE Architecture" width="900"/>
 </p>
+
+
+To optimize the performance of OTMODE in differential feature detection, we evaluated its behavior under various parameter settings. Our results showed that parameter values between 0.1 and 1.0 generally yielded the highest performance.
+
+<p align="center">
+  <img src="https://github.com/Eggong/OTMODE/blob/main/figure/Parameter_Tuning_Benchmarking.png" alt="OTMODE Architecture" width="900"/>
+</p>
+
+
+
 
 📖 Read our paper (coming soon) | 🔬 Built with Python & scRNA-seq in mind
 
