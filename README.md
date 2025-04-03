@@ -20,7 +20,6 @@
 </p>
 
 ---
-
 ## 🧬 Overview
 
 **OTMODE** is a computational framework built on **Optimal Transport (OT)** theory for improving cell-type annotation accuracy and for identifying **differential features** across conditions in **single-cell multi-omics** data.
@@ -38,14 +37,29 @@ To optimize the performance of OTMODE in differential feature detection, we eval
   <img src="https://github.com/Eggong/OTMODE/blob/main/figure/Parameter_Tuning_Benchmarking.png" alt="OTMODE Architecture" width="900"/>
 </p>
 
+---
+## 🚀 Installation
 
+```bash
+pip install git+https://github.com/Eggong/OTMODE.git
+
+---
+## 📘 Tutorials
+
+We provide interactive tutorials to help users get started with applying **OTMODE** to multi-omics single-cell data. These tutorials demonstrate real use cases such as cell type annotation and differential feature detection.
+
+All tutorials are provided as Jupyter notebooks and are located in the [`tutorials/`](./tutorials) folder.
+
+### 🧪 Available Tutorials
+
+| Tutorial | Description | Link |
+|----------|-------------|------|
+| **Application 1: Cell Type Annotation** | Learn how to use OTMODE to annotate cell types using integrated multi-omics data. | [View Notebook ›](./tutorials/OTMODE_App1_Tutorial.ipynb) |
+| **Application 2: Differential Feature Detection** | Step-by-step guide to detect differentially expressed genes or features across cell groups. | [View Notebook ›](./tutorials/OTMODE_App2_Tutorial.ipynb) |
+
+---
 
 
 📖 Read our paper (coming soon) | 🔬 Built with Python & scRNA-seq in mind
 
 ---
-
-## 🚀 Installation
-
-```bash
-pip install git+https://github.com/Eggong/OTMODE.git
