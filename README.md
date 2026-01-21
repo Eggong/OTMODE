@@ -73,8 +73,8 @@ All tutorials are provided as Jupyter notebooks and are located in the [`tutoria
 
 | Tutorial | Description | Link |
 |----------|-------------|------|
-| **Application 1: Cell Type Annotation** | Learn how to use OTMODE to annotate cell types using integrated multi-omics data. | [View Notebook ›](./tutorials/OTMODE_App2_Tutorial.ipynb) |
-| **Application 2: Differential Feature Detection** | Step-by-step guide to detect differentially expressed genes or features across cell groups. | [View Notebook ›](./tutorials/OTMODE_App1_Tutorial.ipynb) |
+| **Application: Differential Feature Detection** | Step-by-step guide to detect differentially expressed genes or features across cell groups. | [View Notebook ›](./tutorials/OTMODE_App2_Tutorial.ipynb) |
+| **Application: Cell Type Annotation** | Learn how to use OTMODE to annotate cell types using integrated multi-omics data. | [View Notebook ›](./tutorials/OTMODE_App1_Tutorial.ipynb) |
 
 ---
 
